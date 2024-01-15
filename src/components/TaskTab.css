@@ -1,0 +1,22 @@
+
+#taskTab{
+
+    display: flex;
+    background-color: #081c29;
+    align-items:center;
+    justify-content: space-between;
+    min-width:fit-content;
+    min-height: fit-content;
+    gap:10px;
+    margin: 5px;
+    padding: 3px;
+    border-radius: 10px;
+}
+#taskTab>button{
+
+    border: 0;
+    border-radius: 2px;
+    
+    font-size: x-small;
+
+}
